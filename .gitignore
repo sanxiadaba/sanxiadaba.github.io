@@ -3,6 +3,8 @@
 *.a
 *.so
 
+content/post/.obsidian
+
 # Folders
 _obj
 _test
