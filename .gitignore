@@ -4,6 +4,7 @@
 *.so
 
 content/post/.obsidian
+content/post/templates
 
 # Folders
 _obj
